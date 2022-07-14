@@ -1,0 +1,20 @@
+mat-toolbar{
+  padding: 0 10rem;
+  height: 10em;
+  background-color: none;
+  button{
+    font-size: 16px;
+    margin: 0 5px;
+    font-family: 'Roboto', sans-serif;
+    background: none;
+  }
+}
+.myName{
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  color: rgba(0,0,0,.6);
+  text-shadow: 3px 2px 3px rgba(255,255,255,.2);
+}
+#primary{
+  width: 100vw;
+}
